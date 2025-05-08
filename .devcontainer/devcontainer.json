@@ -1,5 +1,5 @@
 {
-  "name"; "Docker Dev Container",
+  "name": "Docker Dev Container",
   "build": {
    "dockerfile": "Dockerfile"
   },
